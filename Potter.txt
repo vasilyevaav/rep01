@@ -1,8 +1,13 @@
-Harry Potter book
+Harry Potter book:
 One The Philosopher's Stone (1997)
 Two The Chamber of Secrets (1998)
+<<<<<<< HEAD
 tri The Prisoner of Azkaban (1999)
 4 The Goblet of Fire (2000)
+=======
+Three The Prisoner of Azkaban (1999)
+Four The Goblet of Fire (2000)
+>>>>>>> feature
 Five Order of the Phoenix (2003)
 Six Half-Blood Prince (2005)
 Seven Deathly Hallows (2007)
